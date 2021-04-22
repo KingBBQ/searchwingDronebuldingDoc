@@ -1,0 +1,2 @@
+# Equipping the power board
+

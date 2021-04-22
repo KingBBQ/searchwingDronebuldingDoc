@@ -1,0 +1,27 @@
+# Table of contents
+
+* [Initial page](README.md)
+* [Template for instructions](template-for-instructions.md)
+
+## Building the Searchwing-Drone <a id="preparing-components"></a>
+
+* [Software Setup](preparing-components/software-setup.md)
+* [Generic componets](preparing-components/generic-componets/README.md)
+  * [Producing special cables](preparing-components/generic-componets/producing-special-cables.md)
+  * [Waterproofing the motor](preparing-components/generic-componets/waterproofing-the-motor.md)
+  * [Printing and preparing the box](preparing-components/generic-componets/printing-and-preparing-the-box.md)
+  * [Equipping the power board](preparing-components/generic-componets/equipping-the-power-board.md)
+  * [Waterproofing the servos](preparing-components/generic-componets/untitled-1.md)
+  * [M5-Servo-Plugs](preparing-components/generic-componets/m5-servo-plugs.md)
+  * [Preparing the water tight battery bag](preparing-components/generic-componets/preparing-the-water-tight-battery-bag.md)
+* [Combining Prepared Components](preparing-components/combining-components/README.md)
+  * [Power cables](preparing-components/combining-components/power-cables.md)
+  * [Building V-Tails and Wings](preparing-components/combining-components/building-v-tails-and-wings.md)
+  * [Preparing the fuselage](preparing-components/combining-components/preparing-the-fuselage.md)
+  * [Equipping the box with all components](preparing-components/combining-components/equipping-the-box-with-all-components.md)
+* [Final Assembly & Testing](preparing-components/final-assembly-and-testing/README.md)
+  * [Setup and testing \(open box\)](preparing-components/final-assembly-and-testing/setup-and-testing-open-box.md)
+  * [Closing the box](preparing-components/final-assembly-and-testing/closing-the-box.md)
+  * ["Marriage" - combining box & fuselage](preparing-components/final-assembly-and-testing/marriage-combining-box-and-fuselage.md)
+  * [Final testing](preparing-components/final-assembly-and-testing/final-testing.md)
+
