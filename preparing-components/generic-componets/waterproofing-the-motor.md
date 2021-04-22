@@ -20,5 +20,20 @@ description: >-
 * Bearing
 * Bearing
 
+## Step 1: disassemble the motor
 
+
+
+## Step 2: Replace the bearings
+
+
+
+## Step 3: assemble the motor
+
+## Finalization & Testing
+
+
+
+* [ ] check this
+* [ ] and that...
 

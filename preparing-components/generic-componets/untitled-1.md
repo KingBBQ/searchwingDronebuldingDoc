@@ -1,10 +1,33 @@
 # Waterproofing the servos
 
-{% hint style="info" %}
-Working time: 30 minutes
-
-Time to cure: 2 days
-{% endhint %}
 
 
+#### Time required
+
+* **Building:** 30 minutes
+* **Curing**: 1 day
+
+#### Tools required
+
+* 
+#### Parts required
+
+* Servos
+* O-Ring
+* Silikon
+
+
+
+
+
+
+
+
+
+## Finalization & Testing
+
+
+
+* [ ] check this
+* [ ] and that...
 
