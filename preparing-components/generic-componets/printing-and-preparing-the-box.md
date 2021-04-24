@@ -43,7 +43,11 @@ Density is set to 100% - the box is designed, to print in 4+ perimeters, this ma
 
 ### Box - Front
 
+![](../../.gitbook/assets/searchwing-box-printing-orientation-2.png)
+
 ### Box - Back
+
+![](../../.gitbook/assets/searchwing-box-printing-orientation-1.png)
 
 ### Wing-Connectors
 
