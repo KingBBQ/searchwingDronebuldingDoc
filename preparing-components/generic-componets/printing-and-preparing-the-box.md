@@ -15,6 +15,14 @@
 * ASA Filament
 * Acton 
 
+## The right printing material
+
+We choose ASA \(Extrudr ASA\) as our printing material of choice:
+
+* **Light** \(approx. 30% lighter than PETG\)
+* **Stable** - good layer adhesion \(compared to ABS\)
+* Can be smoothed with **Aceton**
+
 ## Settings for the slicing / printing
 
 Seams are very important, when printing watertight elements: by default, most slicers set the seams next to each other, because this looks better. But this leads also to an easy way for water to penetrate all the perimeters. Set to "Random"
