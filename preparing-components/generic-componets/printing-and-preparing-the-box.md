@@ -17,7 +17,7 @@
 
 ## The right printing material
 
-We choose ASA \(Extrudr ASA\) as our printing material of choice:
+We choose ASA \([DuraPro ASA](https://www.extrudr.com/de/produkte/catalogue/asa-durapro-neon-orange_2989/)\) as our printing material of choice:
 
 * **Light** \(approx. 30% lighter than PETG\)
 * **Stable** - good layer adhesion \(compared to ABS\)
@@ -25,7 +25,15 @@ We choose ASA \(Extrudr ASA\) as our printing material of choice:
 
 ## Settings for the slicing / printing
 
-Seams are very important, when printing watertight elements: by default, most slicers set the seams next to each other, because this looks better. But this leads also to an easy way for water to penetrate all the perimeters. Set to "Random"
+{% hint style="info" %}
+The complete config bundle for the PrusaSlicer can be downloaded here:
+{% endhint %}
+
+{% embed url="https://raw.githubusercontent.com/KingBBQ/searchwingDronebuldingDoc/master/3DPrinting/PrusaSlicer\_config\_bundle.ini" %}
+
+
+
+Seams are very important, when printing watertight elements: by default, most slicers set the seams next to each other, because this looks better. But this leads also to an easy way for water to penetrate all the perimeters. Set to "Random".
 
 ![Set to &quot;random&quot; seams](../../.gitbook/assets/searchwing-box-printing-seams.png)
 
