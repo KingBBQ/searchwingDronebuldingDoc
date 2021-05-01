@@ -1,4 +1,4 @@
-# The right filament
+# The right filament - and the richt settings.
 
 We use ASA for printing the box:
 

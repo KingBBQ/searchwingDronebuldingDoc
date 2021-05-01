@@ -28,6 +28,6 @@
 ## Testing & Development
 
 * [How to create watertight 3D-prints](testing-and-development/how-to-create-watertight-3d-prints/README.md)
-  * [The right filament](testing-and-development/how-to-create-watertight-3d-prints/the-right-filament.md)
+  * [The right filament - and the richt settings.](testing-and-development/how-to-create-watertight-3d-prints/the-right-filament.md)
   * [Detect thin walls setting](testing-and-development/how-to-create-watertight-3d-prints/detect-thin-walls-setting.md)
 
