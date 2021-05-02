@@ -13,7 +13,7 @@ description: >-
 
 #### Tools required
 
-* 3D-printed mounting aid
+* 3D-printed mounting aid \(export the STL data from the CAD modell in the link below\) [https://cad.onshape.com/documents/3d72292578f0cf87124dafaf/w/645e27e78913f8a2fc46f6eb/e/d92f338c5cb887f88ac1b3e7](https://cad.onshape.com/documents/3d72292578f0cf87124dafaf/w/645e27e78913f8a2fc46f6eb/e/d92f338c5cb887f88ac1b3e7)
 * cotter pin drive 
 * hammer 
 * small screwdriver
