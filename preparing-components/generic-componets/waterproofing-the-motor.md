@@ -9,18 +9,26 @@ description: >-
 
 #### Time required
 
-* **Building:** 30 minutes
+* **Building:** 10 minutes
 
 #### Tools required
 
-* 
-#### Parts required
+* 3D-printed mounting aid
+* cotter pin drive 
+* hammer 
+* small screwdriver
 
-* Extron Motor
-* Bearing
-* Bearing
+#### Parts required for waterproofing one motor
+
+* 1x Extron Motor
+* 2x bearing small 
+* 1x bearing big 
 
 ## Step 1: disassemble the motor
+
+First of all the circlip shown in the picture below needs to be removed. Therefore a small screwdriver could be helpful. 
+
+![](../../.gitbook/assets/motorlagerwechsel-sprengring-entfernen.heic)
 
 
 
