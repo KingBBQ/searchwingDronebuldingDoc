@@ -28,7 +28,33 @@ This cable connects the power from the power module to the 2 Raspberry Pi Zeros.
 
 ## PixRacer -&gt; RC-Receiver 
 
+The cable connects receiver in the plane \([FrSky R-XSR](../../parts/list-of-parts-and-where-to-buy.md#receiver)\) to 2 ports ob the PixRacer: **RCIN** and **FRS**.
 
+![All cables needed](../../.gitbook/assets/frsky-receiver-cable-needed-cables.jpg)
+
+You need:
+
+* From FrSky-Receiver:
+  * Plug with 5 cables
+  * Remove the white one
+* From PixRacer:
+  * JST-5 connections \(fitting the RCIN connection\)
+
+    JST-4 connections \(fitting the FRS connection\)
+
+![](../../.gitbook/assets/frsky-receiver-cable-wiring.png)
+
+![](../../.gitbook/assets/frsky-receiver-cable.jpg)
+
+#### How to test
+
+* connect to PixRacer
+* connect to receiver
+* bind the remote control to receiver
+* check connection
+* check telemetry 
+  * Long Press on "PAGE"
+  * See the telemetry from the PixRacer
 
 ## Telemetrie -&gt; PixRacer
 
