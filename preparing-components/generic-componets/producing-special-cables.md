@@ -50,7 +50,7 @@ You need:
 
 * connect to PixRacer
 * connect to receiver
-* bind the remote control to receiver
+* [bind the remote control to receiver](../software-setup/receiver-software.md#bind-the-receiver-the-the-rc)
 * check connection
 * check telemetry 
   * Long Press on "PAGE"

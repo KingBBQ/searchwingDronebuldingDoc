@@ -70,9 +70,9 @@ After flashing, try to BIND the receiver again.
 * Immediately the r**ed LED on the receiver should start blinking.**
 * **Turn the PixRacer off and on** - the LED of the receiver should **blue and green flashing.**
 
+### Final Testing
+
 ![](../../.gitbook/assets/frsky-r-xrs-binding-test.jpg)
-
-
 
 {% hint style="success" %}
 Looks like this? Your're done!
