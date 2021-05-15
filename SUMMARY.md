@@ -31,3 +31,7 @@
   * [The right filament - and the richt settings.](testing-and-development/how-to-create-watertight-3d-prints/the-right-filament.md)
   * [Detect thin walls setting](testing-and-development/how-to-create-watertight-3d-prints/detect-thin-walls-setting.md)
 
+## Parts
+
+* [List of Parts and where to buy](parts/list-of-parts-and-where-to-buy.md)
+
