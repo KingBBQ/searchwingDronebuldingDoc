@@ -33,7 +33,7 @@ This cable connects the power from the power module to the 2 Raspberry Pi Zeros.
 
 #### DHT22 -&gt; Raspberry Pi Zero
 
-To meassure the air temperature and humidity on the inside of the Box, a DHT22 Sensor needs to be attached to one of the Pi's. 
+To meassure the air temperature and humidity on the inside of the Box, a DHT22 sensor needs to be attached to one of the Pi's. 
 
 ![DHT pin layout \(the uncolored pin is not used\)](../../.gitbook/assets/image%20%281%29.png)
 
@@ -53,9 +53,11 @@ To meassure the air temperature and humidity on the inside of the Box, a DHT22 S
 
 
 
-4. Attach the \(black\) GND cable to the last Pin, and cover your bad soldering points with shrinking tube up.
+4. Attach the \(black\) GND cable to the last Pin, and cover your bad soldering points with shrinking tube.
 
 ![](../../.gitbook/assets/img_20210607_142049.jpg)
+
+## 
 
 ## Power Switch -&gt; Power Module
 
