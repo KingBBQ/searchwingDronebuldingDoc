@@ -17,12 +17,45 @@ description: 'To connect different components, special cables have to be produce
 
 #### Parts required
 
-* 
+for DHT:
+
+* 3x Cable ca. 65mm \(red, yellow, black\)
+* 1x Cable ca. 30mm 
+* 1x 4.7 kOhm \(yellow\)
+
+
+
 
 
 ## Power-Module -&gt; Raspberry Pi Zero & DHT22
 
 This cable connects the power from the power module to the 2 Raspberry Pi Zeros. This cable also connects the DHT22 sensor \(humidity and temperature\) to one pi.
+
+#### DHT22 -&gt; Raspberry Pi Zero
+
+To meassure the air temperature and humidity on the inside of the Box, a DHT22 Sensor needs to be attached to one of the Pi's. 
+
+![DHT pin layout \(the uncolored pin is not used\)](../../.gitbook/assets/image%20%281%29.png)
+
+![scematic for connection](../../.gitbook/assets/image.png)
+
+1. First solder \(red\) vcc cable and the resistor to the DHT as shown
+
+![](../../.gitbook/assets/img_20210607_140835.jpg)
+
+2. Solder the 20mm cable to the data Pin and shrink the first DHT pin.
+
+![](../../.gitbook/assets/img_20210607_141408.jpg)
+
+3. Solder the open end of the resistor, the open end of the 20mm cable and the long data cable \(yellow\) together.
+
+![](../../.gitbook/assets/img_20210607_141638.jpg)
+
+
+
+4. Attach the \(black\) GND cable to the last Pin, and cover your bad soldering points with shrinking tube up.
+
+![](../../.gitbook/assets/img_20210607_142049.jpg)
 
 ## Power Switch -&gt; Power Module
 
