@@ -26,10 +26,10 @@ We choose ASA \([DuraPro ASA](https://www.extrudr.com/de/produkte/catalogue/asa-
 ## Settings for the slicing / printing
 
 {% hint style="info" %}
-The complete config bundle for the PrusaSlicer can be downloaded here:
+The complete config bundle for the PrusaSlicer, most current STL Files ande more can be downloaded here:
 {% endhint %}
 
-{% embed url="https://raw.githubusercontent.com/KingBBQ/searchwingDronebuldingDoc/master/3DPrinting/PrusaSlicer\_config\_bundle.ini" %}
+{% embed url="https://gitlab.com/searchwing/development/TheBox" %}
 
 
 
