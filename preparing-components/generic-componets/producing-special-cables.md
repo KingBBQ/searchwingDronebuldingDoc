@@ -61,15 +61,15 @@ To meassure the air temperature and humidity on the inside of the Box, a DHT22 s
 
 ## Power Switch -&gt; Power Module
 
-## PixRacer -&gt; Raspberry Pi
+## PixRacer -&gt; Raspberry Pi -&gt; PowerModule
 
-This cable connects the PixRacer and the two Pi's. Furthermore there is a power supply cable for the Pi's to be built. Therefore you need STECKER UND KABEL NAMEN EINFUEGEN. 
+This cable connects the PixRacer and the two Pi's. Furthermore there is a power supply cable for the Pi's to be built. Therefore you need JST GHT connectors. 
 
-Start with building the power supply for the two Pi's. Use the NAME DES CONNECTORS and the NAME DES KABELS and put it together. There is a +5V supply on pin 1&2 and ground on pin 3&4. Make sure that every Pi gets a +5V and a ground supply and twist the cables like shown in the pictrue below.
+Start with building the power supply for the two Pi's. Use the JST GHT and the fitting, crimped cables and put it together. There is a +5V supply on pin 1&2 and ground on pin 3&4. Make sure that every Pi gets a +5V and a ground supply and twist the cables like shown in the pictrue below.
 
 ![Pi power supply](../../.gitbook/assets/pi-powersupply.jpg)
 
-The next step is to build the cable for the connection between Pixracer and Pis. Therefore the NAME DES CONNECTORS UND KABELS is needed. Moreover you need a wire, because each Pi needs to be connected to the PixRacer. There need to be 3 wires in the STECKERNAME. Two of them, those which are in pin 1 and 5, need to be shorted like shown in the picture. 
+The next step is to build the cable for the connection between Pixracer and Pis. Therefore the JST GHT is needed. Moreover you need a wire, because each Pi needs to be connected to the PixRacer. There need to be 3 wires in the JST GHT. Two of them, those which are in pin 1 and 5, need to be shorted like shown in the picture. 
 
 ![](../../.gitbook/assets/pi-pixracer-connection-cable-1.jpg)
 
@@ -80,6 +80,16 @@ You also need four cables made out of a wire of your choice. The length is shown
 The last step of building the connector cable between the Pi and PixRacer is to solder the previously shortened cables and use a heat shrink tube to isolate them. Don't forget to use two cables \(the green ones in the picture\) for each shortened cable on the connector.
 
 ![](../../.gitbook/assets/pi-pixracer-connection-cable-3.jpg)
+
+#### Soldering the Cables to the Raspberry Pi Zeros
+
+![Marking the 1st Cable for easier soldering](../../.gitbook/assets/pixracer-pi-1.jpg)
+
+![](../../.gitbook/assets/pixracer-pi-2.jpg)
+
+![Schematics for the cable connections](../../.gitbook/assets/pixracer-raspi.png)
+
+![](../../.gitbook/assets/pixracer-pi-3.jpg)
 
 ## PixRacer -&gt; RC-Receiver 
 
