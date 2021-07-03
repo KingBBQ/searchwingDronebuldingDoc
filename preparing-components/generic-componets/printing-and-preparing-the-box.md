@@ -13,7 +13,7 @@
 #### Parts required
 
 * ASA Filament
-* Acton 
+* Acetone 
 
 ## The right printing material
 
@@ -61,7 +61,47 @@ Density is set to 100% - the box is designed, to print in 4+ perimeters, this ma
 
 ### Box - Cover
 
-## Aceton-vapor the box
+## Acetone-vapor the box
+
+#### Preparation
+
+* Acetone - 100 ml
+* Big, acetone proof container 
+* container for filling boiling water
+* attach the to be smoothed parts to wires
+
+{% hint style="danger" %}
+**Acetone is toxic!** Wear appropriate protection gear, especially a respiratory protection and gloves!
+
+Do the whole procedure **OUTSIDE with good ventilation!**
+
+**Acetone vapors are explosive!**
+{% endhint %}
+
+![](../../.gitbook/assets/searchwing-acetone-1.jpg)
+
+* Boil 1l of water
+* fill the acetone into the big container
+* fill the boiling water into the bottom container
+
+![Acetone starts boiling](../../.gitbook/assets/searchwing-acetone-2.jpg)
+
+{% hint style="info" %}
+You can see the level of the vaporized acetone on the side of the container as drops
+{% endhint %}
+
+#### Smoothing the ASA Parts
+
+* lower the parts into the acetone vapor
+* wait 20-30 seconds
+* you see the surface getting "shiny"
+* finished!
+
+![](../../.gitbook/assets/searchwing-acetone-3.jpg)
+
+#### Curing / Drying
+
+![](../../.gitbook/assets/searchwing-acetone-4.jpg)
 
 ## Glue the holders to the box 
 
