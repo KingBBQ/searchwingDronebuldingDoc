@@ -1,18 +1,10 @@
 # Setup Companion Computer
 
-## Flash image to pi
+## Flash image to SD-Cards for PI Zeros
+
+* Flash 2 sd cards - one for each pi
+* Follow instructions from the WIKI:
+  * [https://www.hs-augsburg.de/homes/beckmanf/dokuwiki/doku.php?id=flash\_prepare\_pi\_zero\_image](https://www.hs-augsburg.de/homes/beckmanf/dokuwiki/doku.php?id=flash_prepare_pi_zero_image)
 
 
-
-## Setup after Flash
-
-Setup Hostname
-
-Setup Wifi
-
-## Test software
-
-### Test image capture
-
-### Test humidity and temperature sensor
 
