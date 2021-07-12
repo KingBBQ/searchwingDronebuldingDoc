@@ -57,9 +57,19 @@ To meassure the air temperature and humidity on the inside of the Box, a DHT22 s
 
 ![](../../.gitbook/assets/img_20210607_142049.jpg)
 
-## 
-
 ## Power Switch -&gt; Power Module
+
+* Solder two precrimped JST-GH cables \(~20cm long\) to the power switch as follows
+
+![](../../.gitbook/assets/powerswitch_soldered%20%282%29.jpg)
+
+* Isolate the cables at the switch side
+  * Using hot glue
+  * !! Special caution needed on the lenght of the isolation at the switch side !!
+
+![Isolate the cables not above the switch connectors ... ](../../.gitbook/assets/powerswitch_solderednear%20%283%29.jpg)
+
+![.... otherwise you could get some trouble with the pixracer connectors - they might block them](../../.gitbook/assets/powerswitch_pixracer%20%282%29.jpg)
 
 ## PixRacer -&gt; Raspberry Pi -&gt; PowerModule
 
