@@ -17,6 +17,7 @@
   * [M5-Servo-Plugs](preparing-components/generic-componets/m5-servo-plugs.md)
 * [Combining Prepared Components](preparing-components/combining-components/README.md)
   * [Power cables](preparing-components/combining-components/power-cables.md)
+  * [Internal signal cables](preparing-components/combining-components/internal-signal-cables.md)
   * [Preparing the water tight battery bag](preparing-components/combining-components/preparing-the-water-tight-battery-bag.md)
   * [Building V-Tails and Wings](preparing-components/combining-components/building-v-tails-and-wings.md)
   * [Preparing the fuselage](preparing-components/combining-components/preparing-the-fuselage.md)
