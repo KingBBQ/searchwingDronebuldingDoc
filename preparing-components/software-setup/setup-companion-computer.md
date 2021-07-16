@@ -38,7 +38,7 @@
 
 ## Testing
 
-#### Login to pi
+### Login
 
 * Insert sd card into Pi and power up using a micro USB cable
 *  First bootup the filesystem of image \(~2Gb\) is enlarged to the SD-Card size \(64Gb\)
@@ -50,7 +50,7 @@
 
   `ssh searchwing@freddy-l.local`
 
-#### Test camera image taking
+### Camera image taking
 
 * Check for new images using pi webserver
   * Open webbrowser
@@ -76,7 +76,7 @@ Jul 16 15:59:26 perlman-l searchwing-payloads-camera.py[293]: [2021-07-16 15:59:
 
 * If the progress is stopped, most probably the pi camera cable isnt working properly
 
-#### Test DHT22 
+### DHT22 
 
 * Check output of dht22 payload:
 
@@ -95,7 +95,7 @@ Jul 16 15:58:11 perlman-l searchwing-payloads-temp-humid.py[270]: [2021-07-16 15
 
 * You should see new temperature and humidity measurements live
 
-#### Test Flightcontroler / Pixracer Mavlink connection
+### Flightcontroler / Pixracer Mavlink connection
 
 * Connect to the flightcontroller via mavproxy
 
