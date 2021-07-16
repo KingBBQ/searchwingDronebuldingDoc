@@ -8,6 +8,7 @@
 * [Software Setup](preparing-components/software-setup/README.md)
   * [Receiver Software](preparing-components/software-setup/receiver-software.md)
   * [Setup Companion Computer](preparing-components/software-setup/setup-companion-computer.md)
+  * [Setup ESP for Pixracer](preparing-components/software-setup/setup-esp-for-pixracer.md)
 * [Generic componets](preparing-components/generic-componets/README.md)
   * [Producing special cables](preparing-components/generic-componets/producing-special-cables.md)
   * [Waterproofing the motor](preparing-components/generic-componets/waterproofing-the-motor.md)

@@ -29,10 +29,12 @@
 * Cut a 20cm piece of power cable \(red and black\) - long enough that the battery connctor outside can be connected
 * Remove 3mm of isolation on both sides
 * Presolder the wires
+  * The whole cable should be covered with solder
 
 ![Presolder the open ends of the cables](../../.gitbook/assets/presolder_powercables.jpg)
 
 * Solder the Cables to the corresponding spots on the power module
+  * Check your solderings by pulling at them
 
 ![Red cable to &quot;BatPlus&quot; - Black cable to &quot;BatMinus&quot;](../../.gitbook/assets/powermodule_batterycable.jpg)
 
@@ -51,6 +53,19 @@
 ![Soldered cables with insulation tubes.](../../.gitbook/assets/powerboard_esc_insulation-tubes.jpg)
 
 * Shrink the insulation tubes over the open soldering spots using the heatgun
+
+## External power plug -&gt; Power Module
+
+* Add the prepared power plug to the powermodule like seen in the image below
+
+![Insert the two cables like this](../../.gitbook/assets/external_power_power_module.jpg)
+
+* Solder the cables at the back of the power module
+  * Add some more solder to the soldering spot to get them soldered perfectly to the board
+* Check you solderings by pulling and rotating them
+  * No part of the cable should get free
+
+Now your power module should look like this...
 
 ![Prepared powermodule with all internal cables soldered](../../.gitbook/assets/powerboard_withcables%20%281%29.jpg)
 

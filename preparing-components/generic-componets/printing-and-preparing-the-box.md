@@ -105,6 +105,10 @@ You can see the level of the vaporized acetone on the side of the container as d
 
 ## Glue the holders to the box 
 
+
+
+## Glue camera glasses to the box
+
 ## Finalization & Testing
 
 
