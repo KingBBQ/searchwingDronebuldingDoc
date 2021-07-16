@@ -26,6 +26,16 @@ description: Test all internal components for correct hardware connectivity
 
 
 
+[\[asdsad\]\(](https://kidslab.gitbook.io/searchwing/preparing-components/software-setup/setup-companion-computer#camera-image-taking)
+
+```text
+  [link text](../<chapter>/<article>.md#<heading-name>)  
+```
+
+{% page-ref page="../software-setup/setup-companion-computer.md" %}
+
+{% page-ref page="../software-setup/setup-companion-computer.md" %}
+
 * Check: Start QGC and check if it connects to the Pixracer
 * Test: ESP-Telemetry Connection to QGC
 * Check: Start System, Search for ESP WiFi \(insert name here\)

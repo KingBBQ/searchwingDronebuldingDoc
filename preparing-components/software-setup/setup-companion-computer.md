@@ -45,10 +45,17 @@
   *  Implemented by creating a `/data` partition where the image will be saved
   *  Takes ~3-5Minutes
   *  Afterwards filesystem resize the camera-capture & webserver service is started
-*  You can access each camera via its hostname:   
-  `ssh searchwing@freddy-l`or
+*  You can access each camera via its hostname: 
 
-  `ssh searchwing@freddy-l.local`
+```bash
+$ ssh searchwing@freddy-l
+```
+
+or
+
+```bash
+$ ssh searchwing@freddy-l.local
+```
 
 ### Camera image taking
 
@@ -60,7 +67,7 @@
   * You can also check if new images appear in the main list
 * For debugging you check output of the image payload: 
 
-```text
+```bash
 $ journalctl -f -u searchwing-payloads-camera.service
 
 -- Logs begin at Fri 2021-07-16 15:52:25 BST. --
@@ -80,7 +87,7 @@ Jul 16 15:59:26 perlman-l searchwing-payloads-camera.py[293]: [2021-07-16 15:59:
 
 * Check output of dht22 payload:
 
-```text
+```bash
 $ journalctl -f -u searchwing-payloads-temp-humid.service
 
 -- Logs begin at Fri 2021-07-16 15:51:32 BST. --
@@ -103,9 +110,11 @@ Jul 16 15:58:11 perlman-l searchwing-payloads-temp-humid.py[270]: [2021-07-16 15
 $ mavproxy.py --master=tcp:127.0.0.1:5760 --default-modules=mode
 ```
 
+#### Receive Mavlink
+
 * After a few seconds, the connection should be established
 
-```text
+```bash
 Connect tcp:127.0.0.1:5760 source_system=255
 Log Directory: 
 Telemetry log: mav.tlog
@@ -114,11 +123,13 @@ MAV> online system 1
 RTL> Mode RTL
 ```
 
+#### Transmit Mavlink
+
 * On the Pi with RX/TX connected to the pixracer you can now test TX 
   * Set the plane to Manual Mode
   * Write `mode MANUAL`
 
-```text
+```bash
 RTL> mode MANUAL 
 RTL> Got COMMAND_ACK: DO_SET_MODE: ACCEPTED 
 MANUAL> Mode MANUAL
