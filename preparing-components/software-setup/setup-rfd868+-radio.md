@@ -18,6 +18,7 @@
 * Get into configuration mode
   * During startup press "+++"
   * "OK" should appear to be able to change the configuration
+  * More info can be found in [https://www.hs-augsburg.de/homes/beckmanf/dokuwiki/doku.php?id=searchwing-rf-antenne](https://www.hs-augsburg.de/homes/beckmanf/dokuwiki/doku.php?id=searchwing-rf-antenne)
 * Change parameters
 
 <table>
