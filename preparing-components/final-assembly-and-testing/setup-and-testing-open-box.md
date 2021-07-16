@@ -33,41 +33,54 @@ description: Test all internal components for correct hardware connectivity
 ## Motor / RC-control
 
 * [ ] Test: is it Rotating in correct direction / RC-Control is working
-  * add a piece of tape to the motor shaft to see the rotationdirection
-  * disable all safty checks using QGC
-  * arm vehicle using the rc-controler 
-  * throttle up 
-  * check rotation of motor: Looking from the back of the plane to the motor, the rotation should be clock-wise
+  * Add a piece of tape to the motor shaft to see the rotationdirection
+  * Disable all safty checks using QGC
+  * Arm vehicle using the rc-controler 
+  * Throttle up 
+  * Check rotation of motor: Looking from the back of the plane to the motor, the rotation should be clock-wise
   * If not correct, switch a pair of cables
-  * enable all safty checks again using QGC
+  * Enable all safty checks again using QGC
 
 ## Servos:
 
 * [ ] Test: do they rotate in correct direction
   * Switch system into manual mode
-  * use RC Controller to check rotation direction
-    * check ailerons
+  * Use RC Controller to check rotation direction
+    * Check ailerons
       * aileron stick left -> aileron left up, aileron right down
-    * check vtails:
+    * Check vtails:
       * elevator stick up -> elevator down
       * ruder stick left -> right ruder up, left ruder down
+
+## GPS
+
+* [ ] Test: Receive > 10 Sats
+  * Put box outside at clear open sky (no building should obstruct the view)
+  * Start QGC
+  * At least 10 sats should be visible
+
+## IMU
+
+* [ ] Test: Receive messages
+  * Start QGC
+  * Do dummy calibration to check if IMU messages can be received
 
 ## Payload
 * [ ] Test Camera: Removed camera lens protection
   * Ensure that the green protection film is removed
 * [ ] Test Camera: PI Can do camera images
-  * Check: Check Test in \[link to pi camera test\]
+  * Check: Check [Camera test](../software-setup/setup-companion-computer#camera-image-taking)
 * [ ] Test Payload RX Telemetry / PI Receive Mavlink
-  * Check: Check Test in \[link to pi camera test\]
-* [ ] Test Payload RX Telemetry / PI Receive Mavlink
-  * Check: Check Test in \[link to pi camera test\] - OR -
+  * Check: Check [receive mavlink test](../software-setup/setup-companion-computer#flightcontroler-pixracer-mavlink-connection)
+* [ ] Test Payload TX Telemetry / PI Send Mavlink
+  * Check: Check [transmit mavlink test](../software-setup/setup-companion-computer#flightcontroler-pixracer-mavlink-connection) - OR -
   * Check: Check if preflight check msgs in QGC are received
     * Open QGC
     * Wait 1 minute
     * Click "Trumpet" symbol at the top of QGC
     * Check if preflight check messages are received
-* [ ] Test: DHT22 Working
-  * Check: Check Test in \[link to pi camera test\]
+* [ ] Test: DHT22
+  * Check: Check [DHT22 test](../software-setup/setup-companion-computer#dht22)
 
 ## Finalization & Testing
 
