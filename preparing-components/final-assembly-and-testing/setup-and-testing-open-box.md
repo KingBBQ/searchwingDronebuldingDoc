@@ -16,11 +16,16 @@ description: Test all internal components for correct hardware connectivity
 
 ## Pixracer
 
-* Test: Does it work
-* Test
-* * Start QGC and connect USB Cable and check if it connects
-* * Telemetry:
-* Test: RFD Connection to QGC
+* [ ] Test: Does it work
+  * Connect USB Cable
+  * Start QGC and check if the pixracer connects
+
+## Telemetry
+
+* [ ] Test: RFD Connection to QGC
+
+
+
 * Check: Start QGC and check if it connects to the Pixracer
 * Test: ESP-Telemetry Connection to QGC
 * Check: Start System, Search for ESP WiFi \(insert name here\)
@@ -56,20 +61,6 @@ description: Test all internal components for correct hardware connectivity
 * Test: PI - DHT22 Working
 * Check: Check Test in \[link to pi camera test\]
 * 
-#### Time required
-
-* **Building:** 30 minutes
-* **Curing**: 2 days
-
-#### Tools required
-
-* 
-#### Parts required
-
-* Extron Motor
-* Bearing
-* Bearing
-
 ## Step 1: PixRacer setup
 
 
