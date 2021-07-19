@@ -41,7 +41,7 @@ description: Test all internal components for correct hardware connectivity
   * If not correct, switch a pair of cables
   * Enable all safty checks again using QGC
 
-## Servos:
+## Servos
 
 * [ ] Test: do they rotate in correct direction
   * Switch system into manual mode
