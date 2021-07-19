@@ -70,18 +70,18 @@ description: Test all internal components for correct hardware connectivity
 * [ ] Test Camera: Removed camera lens protection
   * Ensure that the green protection film is removed
 * [ ] Test Camera: PI Can do camera images
-  * Check: Check [Camera test](https://github.com/KingBBQ/searchwingDronebuldingDoc/tree/953d1fdcaa4351c8da2ac1754b682b14711f1531/preparing-components/software-setup/setup-companion-computer/README.md#camera-image-taking)
+  * Check: Check [Camera test](https://kidslab.gitbook.io/searchwing/preparing-components/software-setup/setup-companion-computer#camera-image-taking)
 * [ ] Test Payload RX Telemetry / PI Receive Mavlink
-  * Check: Check [receive mavlink test](https://github.com/KingBBQ/searchwingDronebuldingDoc/tree/953d1fdcaa4351c8da2ac1754b682b14711f1531/preparing-components/software-setup/setup-companion-computer/README.md#flightcontroler-pixracer-mavlink-connection)
+  * Check: Check [receive mavlink test](https://kidslab.gitbook.io/searchwing/preparing-components/software-setup/setup-companion-computer#receive-mavlink)
 * [ ] Test Payload TX Telemetry / PI Send Mavlink
-  * Check: Check [transmit mavlink test](https://github.com/KingBBQ/searchwingDronebuldingDoc/tree/953d1fdcaa4351c8da2ac1754b682b14711f1531/preparing-components/software-setup/setup-companion-computer/README.md#flightcontroler-pixracer-mavlink-connection) - OR -
+  * Check: Check [transmit mavlink test](https://kidslab.gitbook.io/searchwing/preparing-components/software-setup/setup-companion-computer#transmit-mavlink) - OR -
   * Check: Check if preflight check msgs in QGC are received
   * Open QGC
   * Wait 1 minute
   * Click "Trumpet" symbol at the top of QGC
   * Check if preflight check messages are received
 * [ ] Test: DHT22
-  * Check: Check [DHT22 test](https://github.com/KingBBQ/searchwingDronebuldingDoc/tree/953d1fdcaa4351c8da2ac1754b682b14711f1531/preparing-components/software-setup/setup-companion-computer/README.md#dht22)
+  * Check: Check [DHT22 test](https://kidslab.gitbook.io/searchwing/preparing-components/software-setup/setup-companion-computer#dht22)
 
 ## Finalization & Testing
 
