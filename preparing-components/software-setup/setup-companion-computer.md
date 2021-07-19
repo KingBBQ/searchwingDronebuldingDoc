@@ -48,13 +48,13 @@
 *  You can access each camera via its hostname: 
 
 ```bash
-$ ssh searchwing@freddy-l
+$ ssh searchwing@perlman-l
 ```
 
 or
 
 ```bash
-$ ssh searchwing@freddy-l.local
+$ ssh searchwing@perlman-l.local
 ```
 
 ### Camera image taking
