@@ -61,7 +61,7 @@ $ ssh searchwing@perlman-l.local
 
 * Check for new images using pi webserver
   * Open webbrowser
-  * Go to`http:\\freddy-l`
+  * Go to`http:\\perlman-l`
   * Click on `0_latest.jpg@`
   * The most recent image should appear \(and can be refreshed using browser refresh / F5-key\)
   * You can also check if new images appear in the main list
