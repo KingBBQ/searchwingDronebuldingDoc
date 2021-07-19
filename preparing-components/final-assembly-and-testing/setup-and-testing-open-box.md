@@ -46,16 +46,16 @@ description: Test all internal components for correct hardware connectivity
 * [ ] Test: do they rotate in correct direction
   * Switch system into manual mode
   * Use RC Controller to check rotation direction
-    * Check ailerons
-      * aileron stick left -> aileron left up, aileron right down
-    * Check vtails:
-      * elevator stick up -> elevator down
-      * ruder stick left -> right ruder up, left ruder down
+  * Check ailerons
+  * aileron stick left -&gt; aileron left up, aileron right down
+  * Check vtails:
+  * elevator stick up -&gt; elevator down
+  * ruder stick left -&gt; right ruder up, left ruder down
 
 ## GPS
 
-* [ ] Test: Receive > 10 Sats
-  * Put box outside at clear open sky (no building should obstruct the view)
+* [ ] Test: Receive &gt; 10 Sats
+  * Put box outside at clear open sky \(no building should obstruct the view\)
   * Start QGC
   * At least 10 sats should be visible
 
@@ -66,21 +66,22 @@ description: Test all internal components for correct hardware connectivity
   * Do dummy calibration to check if IMU messages can be received
 
 ## Payload
+
 * [ ] Test Camera: Removed camera lens protection
   * Ensure that the green protection film is removed
 * [ ] Test Camera: PI Can do camera images
-  * Check: Check [Camera test](../software-setup/setup-companion-computer#camera-image-taking)
+  * Check: Check [Camera test](https://github.com/KingBBQ/searchwingDronebuldingDoc/tree/953d1fdcaa4351c8da2ac1754b682b14711f1531/preparing-components/software-setup/setup-companion-computer/README.md#camera-image-taking)
 * [ ] Test Payload RX Telemetry / PI Receive Mavlink
-  * Check: Check [receive mavlink test](../software-setup/setup-companion-computer#flightcontroler-pixracer-mavlink-connection)
+  * Check: Check [receive mavlink test](https://github.com/KingBBQ/searchwingDronebuldingDoc/tree/953d1fdcaa4351c8da2ac1754b682b14711f1531/preparing-components/software-setup/setup-companion-computer/README.md#flightcontroler-pixracer-mavlink-connection)
 * [ ] Test Payload TX Telemetry / PI Send Mavlink
-  * Check: Check [transmit mavlink test](../software-setup/setup-companion-computer#flightcontroler-pixracer-mavlink-connection) - OR -
+  * Check: Check [transmit mavlink test](https://github.com/KingBBQ/searchwingDronebuldingDoc/tree/953d1fdcaa4351c8da2ac1754b682b14711f1531/preparing-components/software-setup/setup-companion-computer/README.md#flightcontroler-pixracer-mavlink-connection) - OR -
   * Check: Check if preflight check msgs in QGC are received
-    * Open QGC
-    * Wait 1 minute
-    * Click "Trumpet" symbol at the top of QGC
-    * Check if preflight check messages are received
+  * Open QGC
+  * Wait 1 minute
+  * Click "Trumpet" symbol at the top of QGC
+  * Check if preflight check messages are received
 * [ ] Test: DHT22
-  * Check: Check [DHT22 test](../software-setup/setup-companion-computer#dht22)
+  * Check: Check [DHT22 test](https://github.com/KingBBQ/searchwingDronebuldingDoc/tree/953d1fdcaa4351c8da2ac1754b682b14711f1531/preparing-components/software-setup/setup-companion-computer/README.md#dht22)
 
 ## Finalization & Testing
 

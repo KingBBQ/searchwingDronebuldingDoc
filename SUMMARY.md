@@ -42,3 +42,14 @@
 
 * [List of Parts and where to buy](parts/list-of-parts-and-where-to-buy.md)
 
+## Using the drone
+
+* [Pre-Flight](using-the-drone/untitled.md)
+* [Flying](using-the-drone/flying.md)
+* [After-Flight](using-the-drone/after-flight.md)
+
+## Maintenance
+
+* [Hardware](maintenance/hardware.md)
+* [Software](maintenance/software.md)
+

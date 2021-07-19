@@ -1,0 +1,10 @@
+# Hardware
+
+## Motor
+
+## Propeller
+
+## Battery
+
+
+
