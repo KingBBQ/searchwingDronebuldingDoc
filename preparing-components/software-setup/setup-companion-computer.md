@@ -30,7 +30,8 @@
         *  cam-r : `ssid=“AP1”`
         *  cam-l : `ssid=“AP2”`
         *  WIFI Password : `psk=“AP-Password”`
-    *  Open the file `attended`:
+        * Multiple networks can be configured in here, by copying the corresponding block
+    *  Open the file `unattended`:
       *  Replace the hostname of the drone according the name scheme: 
         * e.g. `DRONENAME-L/R` → `freddy-l`
 * Unmount sd card
@@ -136,4 +137,33 @@ MANUAL> Mode MANUAL
 ```
 
 * The plane should be now in manual mode
+
+#### Debugging
+
+* using searchwing-pi repo / searchwing-payload-camera
+
+  * set `LOGGER_LEVEL = "DEBUG"`in `/home/searchwing/searchwing-pi/configuration.toml`
+  * restart: `sudo systemctl restart searchwing-payloads-camera.service`
+  * Check output
+
+  ```bash
+  $ journalctl -f -u searchwing-payloads-camera.service
+  ```
+
+* using mavlink-router stats per port
+
+  * enable mavlink-router stats printing in `/etc/mavlink-router/config.d/main.conf` 
+
+  `[General]`
+
+  **`ReportStats=true`**
+
+  `MavlinkDialect=auto`
+
+  * restart mavlink-router: `sudo systemctl restart mavlink-router.service`
+  * Check output
+
+  ```bash
+  $ journalctl -f -u mavlink-router.service
+  ```
 
