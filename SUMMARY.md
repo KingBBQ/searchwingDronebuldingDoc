@@ -6,6 +6,7 @@
 ## Building the Searchwing-Drone <a id="preparing-components"></a>
 
 * [Software Setup](preparing-components/software-setup/README.md)
+  * [Setup Pixracer](preparing-components/software-setup/setup-pixracer.md)
   * [Receiver Software](preparing-components/software-setup/receiver-software.md)
   * [Setup Companion Computer](preparing-components/software-setup/setup-companion-computer.md)
   * [Setup ESP for Pixracer](preparing-components/software-setup/setup-esp-for-pixracer.md)
