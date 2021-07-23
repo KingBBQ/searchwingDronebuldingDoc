@@ -7,7 +7,7 @@
 * Upload Parameters
   * Start QGC
   * Go to Menu-&gt;VehicleSetup-&gt;Parameters-&gt;Tools-&gt;Load from File
-  * Choose file
+  * Choose file "LATEST.params"
   * Reboot via Tools-&gt;Reboot
 
 ## Update Ardupilot
