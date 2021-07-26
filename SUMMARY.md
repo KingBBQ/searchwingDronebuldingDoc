@@ -6,6 +6,7 @@
 ## Building the Searchwing-Drone <a id="preparing-components"></a>
 
 * [Software Setup](preparing-components/software-setup/README.md)
+  * [Setup Pixracer](preparing-components/software-setup/setup-pixracer.md)
   * [Receiver Software](preparing-components/software-setup/receiver-software.md)
   * [Setup Companion Computer](preparing-components/software-setup/setup-companion-computer.md)
   * [Setup ESP for Pixracer](preparing-components/software-setup/setup-esp-for-pixracer.md)
@@ -37,6 +38,7 @@
 * [How to create watertight 3D-prints](testing-and-development/how-to-create-watertight-3d-prints/README.md)
   * [The right filament - and the richt settings.](testing-and-development/how-to-create-watertight-3d-prints/the-right-filament.md)
   * [Detect thin walls setting](testing-and-development/how-to-create-watertight-3d-prints/detect-thin-walls-setting.md)
+* [Watertight cable connections](testing-and-development/watertight-cable-connections.md)
 
 ## Parts
 

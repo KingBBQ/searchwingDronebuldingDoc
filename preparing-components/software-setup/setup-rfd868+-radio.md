@@ -34,7 +34,7 @@
         <p></p>
         <p>AT&amp;F</p>
       </td>
-      <td style="text-align:left">reset</td>
+      <td style="text-align:left">factory reset parameters</td>
     </tr>
     <tr>
       <td style="text-align:left">

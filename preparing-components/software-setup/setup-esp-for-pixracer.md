@@ -10,7 +10,7 @@
 * open a browser to [192.168.4.1](http://192.168.4.1/) and a simple web interface will appear 
 * click on the “Setup” link
 * set config 
-  * AP SSID := dronenameRacer
+  * AP SSID := dronenameRacer \(replace "dronename" with your real drone name\)
   * AP Password := cassandra
   * baudrate := 912600
 * push the “Save” button and reboot the device
