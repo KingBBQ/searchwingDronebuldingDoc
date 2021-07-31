@@ -39,6 +39,7 @@
   * [The right filament - and the richt settings.](testing-and-development/how-to-create-watertight-3d-prints/the-right-filament.md)
   * [Detect thin walls setting](testing-and-development/how-to-create-watertight-3d-prints/detect-thin-walls-setting.md)
 * [Watertight cable connections](testing-and-development/watertight-cable-connections.md)
+* [The right glue for the right parts](testing-and-development/the-right-glue-for-the-right-parts.md)
 
 ## Parts
 
