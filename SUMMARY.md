@@ -27,6 +27,7 @@
   * [Building V-Tails and Wings](preparing-components/combining-components/building-v-tails-and-wings.md)
   * [Preparing the fuselage](preparing-components/combining-components/preparing-the-fuselage.md)
   * [Equipping the box with all components](preparing-components/combining-components/equipping-the-box-with-all-components.md)
+  * [Untitled](preparing-components/combining-components/untitled.md)
 * [Final Assembly & Testing](preparing-components/final-assembly-and-testing/README.md)
   * [Setup and testing \(open box\)](preparing-components/final-assembly-and-testing/setup-and-testing-open-box.md)
   * [Closing the box](preparing-components/final-assembly-and-testing/closing-the-box.md)

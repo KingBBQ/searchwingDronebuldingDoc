@@ -41,13 +41,73 @@ Ruder horn after proper assembly:
 
 ![](../../.gitbook/assets/ruderhorn_glued.jpg)
 
+
+
+### Preparing and installing the servo pushrods
+
+![Main Wing Puhsrods - 130mm](../../.gitbook/assets/servo-pushrods-3-main.jpg)
+
+![Puhsrods for the V-Tails - 75mm](../../.gitbook/assets/servo-pushrods-1-tail.jpg)
+
+![](../../.gitbook/assets/servo-pushrods-2.jpg)
+
+
+
+![Drill 1mm holes into the rudder horns](../../.gitbook/assets/servo-pushrod-4.jpg)
+
+
+
+
+
+
+
+
+
 ### Installing the servos into the wings
 
 Make sure the servo is centered before installing the servo into the wing. Make sure the servo arm is installed with a O-Ring inbetween the servo arm and the servo housing.
 
+![Add the Or-Ring and some grease or oil](../../.gitbook/assets/wings-prepare-servo-2.jpg)
 
 
-### Installing the servo pushrod
+
+![Center all the servos \(neutral position\)](../../.gitbook/assets/wings-prepare-servo-3.jpg)
+
+#### Installing the servos in the main wings
+
+![Center the ailerons - then attach the rudder horn on the servo](../../.gitbook/assets/wing-main-1.jpg)
+
+![Only then attach and tighten the screw](../../.gitbook/assets/wing-main-2.jpg)
+
+![](../../.gitbook/assets/wing-main-3.jpg)
+
+![Add silicon at the cable connection to the servo - this part can be problematic otherwise](../../.gitbook/assets/wing-main-4.jpg)
+
+![Finished Servo](../../.gitbook/assets/wing-main-5.jpg)
+
+
+
+![Also fix the cables with silicon](../../.gitbook/assets/wing-main-6.jpg)
+
+
+
+#### V-Tails
+
+![](../../.gitbook/assets/wing-tail-1-.jpg)
+
+
+
+![Cut V-Tails free](../../.gitbook/assets/wing-tail-2.jpg)
+
+![Again - center the rudder and then put the rudder horn on the servo](../../.gitbook/assets/wing-tail-3.jpg)
+
+![](../../.gitbook/assets/wing-tail-5.jpg)
+
+![Make sure the cable is fixed with silicon](../../.gitbook/assets/wing-tail-6.jpg)
+
+
+
+
 
 ### Installing the wing rods
 
