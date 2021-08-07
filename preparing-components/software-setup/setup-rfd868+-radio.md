@@ -47,13 +47,6 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>ATS5=1</p>
-      </td>
-      <td style="text-align:left">enable ECC</td>
-    </tr>
-    <tr>
       <td style="text-align:left">ATS6=1</td>
       <td style="text-align:left">set data protocol type to MAVLINK</td>
     </tr>
