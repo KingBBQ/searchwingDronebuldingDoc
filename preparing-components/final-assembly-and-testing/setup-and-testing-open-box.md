@@ -75,6 +75,7 @@ description: Test all internal components for correct hardware connectivity
   * Ensure that the green protection film is removed
 * [ ] Test Camera: PI Can do camera images
   * Check: Check [Camera test](https://kidslab.gitbook.io/searchwing/preparing-components/software-setup/setup-companion-computer#camera-image-taking)
+  * Check image quality \(no blur, no plastic particles\)
 * [ ] Test Payload RX Telemetry / PI Receive Mavlink
   * Check: Check [receive mavlink test](https://kidslab.gitbook.io/searchwing/preparing-components/software-setup/setup-companion-computer#receive-mavlink)
 * [ ] Test Payload TX Telemetry / PI Send Mavlink
