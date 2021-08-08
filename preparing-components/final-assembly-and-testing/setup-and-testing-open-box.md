@@ -67,6 +67,10 @@ description: Test all internal components for correct hardware connectivity
 
 ## Payload
 
+* [ ] Test Camera cables:
+  * [ ] Camera cable glued to PI
+  * [ ] Camera cable glued to left camera
+  * [ ] Camera cable glued to right camera
 * [ ] Test Camera: Removed camera lens protection
   * Ensure that the green protection film is removed
 * [ ] Test Camera: PI Can do camera images
@@ -81,7 +85,9 @@ description: Test all internal components for correct hardware connectivity
   * Click "Trumpet" symbol at the top of QGC
   * Check if preflight check messages are received
 * [ ] Test: DHT22
-  * Check: Check [DHT22 test](https://kidslab.gitbook.io/searchwing/preparing-components/software-setup/setup-companion-computer#dht22)
+  * Check: Check [DHT22 tes](https://kidslab.gitbook.io/searchwing/preparing-components/software-setup/setup-companion-computer#dht22)t
+
+
 
 ## ESC Calibration
 
