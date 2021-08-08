@@ -20,6 +20,7 @@
   * [Equipping the power board](preparing-components/generic-componets/equipping-the-power-board.md)
   * [Waterproofing the servos](preparing-components/generic-componets/untitled-1.md)
   * [M5-Servo-Plugs](preparing-components/generic-componets/m5-servo-plugs.md)
+  * [GPS Tower](preparing-components/generic-componets/gps-tower.md)
 * [Combining Prepared Components](preparing-components/combining-components/README.md)
   * [Power cables](preparing-components/combining-components/power-cables.md)
   * [Internal signal cables](preparing-components/combining-components/internal-signal-cables.md)

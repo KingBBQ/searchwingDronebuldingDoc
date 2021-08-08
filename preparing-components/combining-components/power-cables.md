@@ -71,7 +71,7 @@ Now your power module should look like this...
 
 ## ESC -&gt; Motor
 
-* Cut 3x 10cm pieces of power cable \(red + 2x black\) - long enough, that the motor and its pigtals could be later replaced without taking the fuselage apart
+* Cut 3x 25cm pieces of power cable \(red + 2x black\) - long enough, that the motor and its pigtals could be later replaced without taking the fuselage apart
 
 ![The 3 cables should be long enough, that the connectors can be unplugged outside of the plane](../../.gitbook/assets/img_20210712_172201.jpg)
 
