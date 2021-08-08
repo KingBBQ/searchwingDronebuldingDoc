@@ -15,6 +15,11 @@
 
 * Connect to the modem using a serial console on your computer
   * Baudrate: 57600
+
+```text
+sudo minicom -D /dev/ttyUSB0 -b 57600
+```
+
 * Get into configuration mode
   * During startup press "+++"
   * "OK" should appear to be able to change the configuration
