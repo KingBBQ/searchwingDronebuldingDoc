@@ -43,8 +43,12 @@
       </td>
       <td style="text-align:left">
         <p></p>
-        <p>set txpower to 100mW</p>
+        <p>(PLANE) set txpower to 20dbm/100mW</p>
       </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">ATS4=30</td>
+      <td style="text-align:left">(GROUNDSTATION) set txpower to 30dbm/1000mW</td>
     </tr>
     <tr>
       <td style="text-align:left">ATS6=1</td>
