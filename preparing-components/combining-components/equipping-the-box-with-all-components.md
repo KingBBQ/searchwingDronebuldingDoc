@@ -148,7 +148,13 @@ Give special instrucktion...
 
 
 
+## Connecting all the cables
+
+![Connection of the servo and ESC Cables to the flight controller](../../.gitbook/assets/pixracer-connections-servo.jpg)
+
 ## Finalization & Testing
+
+
 
 
 
