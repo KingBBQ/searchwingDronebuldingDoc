@@ -27,8 +27,8 @@
     *  open the file `wpa_supplicant.conf`:
       *  Get info for AP names and passwords from [the network description.](https://www.hs-augsburg.de/homes/beckmanf/dokuwiki/doku.php?id=image-download-station)
       *  Write info in `wpa_supplicant.conf` :
-        *  cam-r : `ssid=“AP1”`
-        *  cam-l : `ssid=“AP2”`
+        *  cam-r : `ssid=“SW-AP1”`
+        *  cam-l : `ssid=“SW-AP2”`
         *  WIFI Password : `psk=“AP-Password”`
         * Multiple networks can be configured in here, by copying the corresponding block
     *  Open the file `unattended`:
