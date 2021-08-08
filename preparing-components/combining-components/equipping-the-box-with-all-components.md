@@ -150,7 +150,13 @@ Give special instrucktion...
 
 ## Connecting all the cables
 
+#### Servo Cables
+
 ![Connection of the servo and ESC Cables to the flight controller](../../.gitbook/assets/pixracer-connections-servo.jpg)
+
+* Brown \(GND\) "up" \(away from cover\)
+* Aileron left & right are "identical" - doesnt matter, which is connected to 1 / 5
+* Connection 6 is left empty
 
 ## Finalization & Testing
 
