@@ -83,6 +83,27 @@ description: Test all internal components for correct hardware connectivity
 * [ ] Test: DHT22
   * Check: Check [DHT22 test](https://kidslab.gitbook.io/searchwing/preparing-components/software-setup/setup-companion-computer#dht22)
 
+## ESC Calibration
+
+{% hint style="warning" %}
+ESC has to be calibrated before closing the box!
+{% endhint %}
+
+* Turn power off \(main switch\)
+* connect PixRacer with USB to a computer
+* Set to `manual` mode 
+* Arm 
+* raise throttle to max on the RC
+* Turn power on \(main switch\) -&gt; ESC peeps \(with motor\)
+* lower throttle to min -&gt; ESC peeps once
+* Done.
+
+
+
+{% embed url="https://ardupilot.org/plane/docs/guide-esc-calibration.html" %}
+
+
+
 ## Finalization & Testing
 
 * [ ] check this

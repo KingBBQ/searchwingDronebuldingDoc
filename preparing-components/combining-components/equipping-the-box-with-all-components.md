@@ -4,17 +4,23 @@
 
 #### Time required
 
-* **Building:** 30 minutes
+* **Building:** 1 hour
 * **Curing**: 2 days
 
 #### Tools required
 
-* 
+* Loctice 243
+* 9mm wrench
+
 #### Parts required
 
-* Extron Motor
-* Bearing
-* Bearing
+* all elecronic parts
+* front and back of box
+* cover for box
+* screws 1.7mm x 4mm for camera
+* ... 2.2mm x 6.5 for everything else
+* Silicon 
+* pen
 
 ## Step 1: Install the servo connectors
 
@@ -160,10 +166,5 @@ Give special instrucktion...
 
 ## Finalization & Testing
 
-
-
-
-
-* [ ] check this
-* [ ] and that...
+* [ ] * [ ] and that...
 
