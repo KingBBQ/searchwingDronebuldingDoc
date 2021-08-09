@@ -11,6 +11,7 @@
 
 * Silicone 
 * Silicone press
+* Tape
 
 #### Parts required
 
