@@ -18,7 +18,7 @@
   * [Producing special cables](preparing-components/generic-componets/producing-special-cables.md)
   * [Waterproofing the motor](preparing-components/generic-componets/waterproofing-the-motor.md)
   * [Printing and preparing the box](preparing-components/generic-componets/printing-and-preparing-the-box.md)
-  * [Equipping the power board](preparing-components/generic-componets/equipping-the-power-board.md)
+  * [??? Equipping the power board](preparing-components/generic-componets/equipping-the-power-board.md)
   * [Waterproofing the servos](preparing-components/generic-componets/untitled-1.md)
   * [M5-Servo-Plugs](preparing-components/generic-componets/m5-servo-plugs.md)
   * [GPS Tower](preparing-components/generic-componets/gps-tower.md)
