@@ -80,5 +80,44 @@ sudo minicom -D /dev/ttyUSB0 -b 57600
   </tbody>
 </table>
 
+Should look like this:
 
+```text
+Welcome to minicom 2.7.1
+
+OPTIONS: I18n 
+Compiled on Aug 13 2017, 15:25:34.
+Port /dev/ttyUSB0, 17:21:12
+
+Press CTRL-A Z for help on special keys
+
+OK
+AT&F
+OK
+ATS4=20
+OK
+ATS6=1
+OK
+AT&W
+OK
+ATZOK
+ATI5
+S0:FORMAT=26
+S1:SERIAL_SPEED=57
+S2:AIR_SPEED=64
+S3:NETID=25
+S4:TXPOWER=20
+S5:ECC=0
+S6:MAVLINK=1
+S7:OPPRESEND=0
+S8:MIN_FREQ=868000
+S9:MAX_FREQ=869000
+S10:NUM_CHANNELS=10
+S11:DUTY_CYCLE=100
+S12:LBT_RSSI=0
+S13:MANCHESTER=0
+S14:RTSCTS=0
+S15:MAX_WINDOW=131
+S16:ENCRYPTION_LEVEL=0
+```
 
