@@ -49,6 +49,8 @@
 
 ## Using the drone
 
+* [Transport](using-the-drone/transport.md)
+* [Packing list](using-the-drone/packing-list.md)
 * [Pre-Flight](using-the-drone/untitled.md)
 * [Flying](using-the-drone/flying.md)
 * [After-Flight](using-the-drone/after-flight.md)

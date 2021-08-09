@@ -3,6 +3,10 @@
 ## Download Images
 
 * Start by pressing "Download images" on Groundstation Laptop
+* Download log file
+* Turn off UAV, RC, QGC
+* Enter flight log
+* reached goal? note problems
 * TODO
 
 ## Image analysis
@@ -18,5 +22,6 @@
 
 ## Recharge Battery
 
+* Plug in charging cable
 * TODO
 
