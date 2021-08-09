@@ -25,12 +25,11 @@
 * Set Accesspoint and NetworkHostname depending on left / right camera :
   *  Open the `/boot` partition \(which normally gets automounted in windows\)
     *  open the file `wpa_supplicant.conf`:
-      *  Get info for AP names and passwords from [the network description.](https://www.hs-augsburg.de/homes/beckmanf/dokuwiki/doku.php?id=image-download-station)
+      * \(currently not needed: Get info for AP names and passwords from [the network description.](https://www.hs-augsburg.de/homes/beckmanf/dokuwiki/doku.php?id=image-download-station)\)
       *  Write info in `wpa_supplicant.conf` :
         *  cam-r : `ssid=“SW-AP1”`
         *  cam-l : `ssid=“SW-AP2”`
-        *  WIFI Password : `psk=“AP-Password”`
-        * Multiple networks can be configured in here, by copying the corresponding block
+        *  WIFI Password : `psk="adakfd4bm"`
     *  Open the file `unattended`:
       *  Replace the hostname of the drone according the name scheme: 
         * e.g. `DRONENAME-L/R` → `freddy-l`
@@ -41,6 +40,7 @@
 
 ### Login
 
+* Connect cameras with thin camera cables
 * Insert sd card into Pi and power up using a micro USB cable
 *  First bootup the filesystem of image \(~2Gb\) is enlarged to the SD-Card size \(64Gb\)
   *  Implemented by creating a `/data` partition where the image will be saved
