@@ -1,22 +1,33 @@
 # Motor assembly and motor mount preparation
 
-### Motorkreuz und Propelleraxe
+### Required
 
-* Motorkreuz an Motor schrauben \(M3x6mm, PH1, metrisch mit Senkkopf\)
+* Motor marked with "WP" \(waterproof\)
+* 4 screws M3x6mm
+* 4 screws cylindric head
+* 4 non-metric? screw for motor mount
+* 4 screw nuts
+* motor cross
+* 3D-printed motor mount
+* **Loctite for all screws!**
+
+### Motor cross and propeller axis
+
+* Screw motor cross to motor \(M3x6mm, PH1, metric with countersunk head\)
 
 ![](../../.gitbook/assets/motor_crossmount_prior_to_assembly.jpg)
 
-* Propelleraxe an Motor schrauben
+* screw propeller axis to motor
 
 ![](../../.gitbook/assets/motor_axel_prior_to_assembly.jpg)
 
-### Motormount
+### Motor mount
 
-* Einpressmuttern in die Motorhalterung einpressen \(Muttern warm machen, z.B. mit dem Lötkolben und mit Zange einpressen\)
+* Press nuts in motor mount \(heat nuts and use tool\)
 
 ![](../../.gitbook/assets/motormount_nuts_inserted.jpg)
 
-* Motorkreuz an Motormount schrauben \(M3x10mm, PZ1, nicht metrisch\)
+* screw motor cross to motor mount \(M3x10mm, PZ1, not metric?\)
 
 ![](../../.gitbook/assets/motor_mounted_to_motormount.jpg)
 
