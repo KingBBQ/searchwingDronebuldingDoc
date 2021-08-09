@@ -67,6 +67,10 @@ description: Test all internal components for correct hardware connectivity
 
 ## Payload
 
+* [ ] Camera cables do not cross each other
+* [ ] Camera orientation correct: cable connector facing to front of plane
+  * [ ] Left camera
+  * [ ] Right camera
 * [ ] Test Camera cables:
   * [ ] Camera cable glued to PI
   * [ ] Camera cable glued to left camera
