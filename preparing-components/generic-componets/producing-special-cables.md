@@ -117,9 +117,11 @@ You need:
 
     JST-4 connections \(fitting the FRS connection\)
 
+**Cable must be drilled!**
+
 ![](../../.gitbook/assets/frsky-receiver-cable-wiring.png)
 
-![](../../.gitbook/assets/frsky-receiver-cable.jpg)
+![](../../.gitbook/assets/rc_transciever_to_pixracer.jpeg)
 
 #### How to test
 
