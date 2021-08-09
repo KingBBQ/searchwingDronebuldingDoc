@@ -1,8 +1,57 @@
+---
+description: Bind receiver to RC
+---
+
 # Receiver Software
 
-## Update Firmware on the reciever R-XSR
+## Requirements
 
-The used receiver [FrSky R-XSR](../../parts/list-of-parts-and-where-to-buy.md#receiver) might need a firmware update: if the receiver doesn't bind to the remote control, the firmware of the receiver and RC might be not compatible.
+* R-XSR + connection cable to Pixracer
+* RC
+
+## Bind the receiver to the RC
+
+If it doesn't work, update receiver as below!
+
+### Prepare the receiver
+
+* connect the receiver to the **PixRacer \(not powered\)**
+* while **holding the small button** on the receiver, **turn on the PixRacer**
+* **All three LEDs are now on \(not flashing\)**
+
+![](../../.gitbook/assets/frsky-r-xrs-binding.jpg)
+
+### Prepare the RC
+
+* Turn on the receiver
+* **Press** Menu
+* **Choose** the desired model
+* **Press** page \(page 2 / 13\)
+* scroll down to "receiver" / **BIND**
+* **Press** Enter
+
+![Scroll down to &quot;Reciever&quot; - choose BIND](../../.gitbook/assets/frsky-r-xrs-binding-receiver.jpg)
+
+![](../../.gitbook/assets/frsky-r-xrs-binding-receiver-2.jpg)
+
+* Press Enter \(cf. Figure above\)
+* The receiver will start **peeping**. 
+* Immediately the r**ed LED on the receiver should start blinking.**
+* **Press Enter to leave binding mode**
+* **Turn the PixRacer off and on** - the LED of the receiver should light **blue and green.**
+* **Press Exit twice to reach final testing.**
+
+### Final Testing
+
+![](../../.gitbook/assets/frsky-r-xrs-binding-test.jpg)
+
+{% hint style="success" %}
+Looks like this? Your're done!
+{% endhint %}
+
+## If binding doesn't work: Update Firmware on the reciever R-XSR
+
+If the receiver doesn't bind to the remote control, the firmware of the receiver and RC might be not compatible, the used receiver [FrSky R-XSR](../../parts/list-of-parts-and-where-to-buy.md#receiver) might need a firmware update:
 
 To flash the receiver you need:
 
@@ -42,39 +91,4 @@ To flash the firmware \(frk file\) you have to upload the file to your RC first.
 ![](../../.gitbook/assets/frsky-r-xrs-flash-firmware-1.jpg)
 
 After flashing, try to BIND the receiver again.
-
-## Bind the receiver the the RC
-
-### Prepare the receiver
-
-* connect the receiver to the **PixRacer \(not powered\)**
-* while **holding the small button** on the receiver, **turn on the PixRacer**
-* **All three LEDs are now on \(not flashing\)**
-
-![](../../.gitbook/assets/frsky-r-xrs-binding.jpg)
-
-### Prepare the RC
-
-* Turn on the receiver
-* **Press** Menu
-* **Choose** the desired model
-* **Press** page \(page 2 / 13\)
-* scroll down to "receiver" / **BIND**
-* **Press** Enter
-
-![Scroll down to &quot;Reciever&quot; - choose BIND](../../.gitbook/assets/frsky-r-xrs-binding-receiver.jpg)
-
-![](../../.gitbook/assets/frsky-r-xrs-binding-receiver-2.jpg)
-
-* The receiver will start **peeping**. 
-* Immediately the r**ed LED on the receiver should start blinking.**
-* **Turn the PixRacer off and on** - the LED of the receiver should **blue and green flashing.**
-
-### Final Testing
-
-![](../../.gitbook/assets/frsky-r-xrs-binding-test.jpg)
-
-{% hint style="success" %}
-Looks like this? Your're done!
-{% endhint %}
 
