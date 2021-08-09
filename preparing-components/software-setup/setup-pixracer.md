@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* Pixracer firmware version 4.0.9
+* Pixracer **firmware version 4.0.9**
 * Micro USB cable
 * qGroundControl installed
 * SD card \(size? 1GB?\)
@@ -19,9 +19,6 @@
   * Choose file "LATEST.params"
   * do not panic! confirm need to reboot \(many times\)
   * Reboot via Tools-&gt;Reboot
-
-## Update Ardupilot
-
 * TODO
 
 

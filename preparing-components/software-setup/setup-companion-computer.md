@@ -1,4 +1,4 @@
-# Setup Companion Computer
+# Setup payload Pi Computers
 
 #### Time required
 

@@ -9,7 +9,7 @@
   * [Setup Pixracer](preparing-components/software-setup/setup-pixracer.md)
   * [Create model on RC](preparing-components/software-setup/create-model-on-rc.md)
   * [Receiver Software](preparing-components/software-setup/receiver-software.md)
-  * [Setup Companion Computer](preparing-components/software-setup/setup-companion-computer.md)
+  * [Setup payload Pi Computers](preparing-components/software-setup/setup-companion-computer.md)
   * [Setup ESP for Pixracer](preparing-components/software-setup/setup-esp-for-pixracer.md)
   * [Setup RFD868+ radio](preparing-components/software-setup/setup-rfd868+-radio.md)
   * [Setup Groundcontrol Laptop](preparing-components/software-setup/setup-groundcontrol-laptop.md)
