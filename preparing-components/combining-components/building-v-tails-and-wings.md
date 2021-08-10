@@ -77,15 +77,23 @@ Now cut free the rudder of the V-Tail:
 
 ![](../../.gitbook/assets/cutting_vtail%20%281%29.jpeg)
 
+**Repeat the process with the Alerions.**
+
 ### Installing the servos into the wings
 
 Make sure the servo is centered before installing the servo into the wing. Make sure the servo arm is installed with a O-Ring inbetween the servo arm and the servo housing.
 
-![Add the Or-Ring and some grease or oil](../../.gitbook/assets/wings-prepare-servo-2.jpg)
+![Add the O-Ring and some grease or oil](../../.gitbook/assets/wings-prepare-servo-2.jpg)
 
 ![Center all the servos \(neutral position\)](../../.gitbook/assets/wings-prepare-servo-3.jpg)
 
 #### Installing the servos in the main wings
+
+**There is a right and wrong:**
+
+![](../../.gitbook/assets/wires_right_wrong.jpeg)
+
+**The short wire part after the angled part at the rudder horn is on the plane inside**
 
 ![Center the ailerons - then attach the rudder horn on the servo](../../.gitbook/assets/wing-main-1.jpg)
 
@@ -106,18 +114,6 @@ Make sure the servo is centered before installing the servo into the wing. Make 
 ![Again - center the rudder and then put the rudder horn on the servo](../../.gitbook/assets/wing-tail-3.jpg)
 
 ![](../../.gitbook/assets/wing-tail-5.jpg)
-
-![Make sure the cable is fixed with silicon](../../.gitbook/assets/wing-tail-6.jpg)
-
-### Installing the wing rods
-
-## Installing the servos into the V-Tails
-
-### Installing the rudder horn
-
-### Installing the servos into the wings
-
-### Installing the servo pushrod
 
 ## Finalization & Testing
 
