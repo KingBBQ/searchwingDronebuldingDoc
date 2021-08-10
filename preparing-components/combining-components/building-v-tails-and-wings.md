@@ -21,6 +21,18 @@
 
 ## Preparing the wings
 
+### Preparing and installing the servo pushrods
+
+![Main Wing Puhsrods - 130mm](../../.gitbook/assets/servo-pushrods-3-main.jpg)
+
+![Puhsrods for the V-Tails - 75mm](../../.gitbook/assets/servo-pushrods-1-tail.jpg)
+
+![](../../.gitbook/assets/servo-pushrods-2.jpg)
+
+
+
+![Drill 1mm holes into the rudder horns](../../.gitbook/assets/servo-pushrod-4.jpg)
+
 ### Install the carbon
 
 Put glue on the carbon rod and the corresponding place in the vtail. Wait 10 minutes and push the rod into the corresponding place.
@@ -40,27 +52,6 @@ Insert the ruder horn into the wing and apply pressure:
 Ruder horn after proper assembly:
 
 ![](../../.gitbook/assets/ruderhorn_glued.jpg)
-
-
-
-### Preparing and installing the servo pushrods
-
-![Main Wing Puhsrods - 130mm](../../.gitbook/assets/servo-pushrods-3-main.jpg)
-
-![Puhsrods for the V-Tails - 75mm](../../.gitbook/assets/servo-pushrods-1-tail.jpg)
-
-![](../../.gitbook/assets/servo-pushrods-2.jpg)
-
-
-
-![Drill 1mm holes into the rudder horns](../../.gitbook/assets/servo-pushrod-4.jpg)
-
-
-
-
-
-
-
 
 
 ### Installing the servos into the wings
