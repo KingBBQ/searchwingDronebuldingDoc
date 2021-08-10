@@ -19,7 +19,7 @@
 
 * Insert the esp as seen below into the pixracer
 
-![](../../.gitbook/assets/image%20%284%29%20%282%29.png)
+![](../../.gitbook/assets/image%20%284%29%20%282%29%20%282%29.png)
 
 
 
