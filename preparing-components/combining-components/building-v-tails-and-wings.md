@@ -9,6 +9,7 @@
 * UHU Por glue
 * spatula
 * silicone
+* \(1.2mm drill\)
 
 #### Parts required
 
@@ -16,6 +17,7 @@
 * 3D printed motor mount
 * Servos with assembled servo arm
 * servo push rods
+* \(optional: flexible tube\)
 
 ## Preparing the wings
 
