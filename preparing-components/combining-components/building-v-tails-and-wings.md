@@ -103,11 +103,11 @@ Make sure the servo is centered before installing the servo into the wing. Make 
 
 Before continuing with glueing the servos and cable into the wing make sure the carbon tubes are inserted into the wings.
 
-**There is a right and wrong:**
+**There is a right and wrong way:**
 
 ![](../../.gitbook/assets/wires_right_wrong.jpeg)
 
-**The short wire part after the angled part at the rudder horn is on the plane inside**
+**The short wire part after the angled part at the rudder horn is on the plane inside.**
 
 ![Center the ailerons - then attach the rudder horn on the servo](../../.gitbook/assets/wing-main-1.jpg)
 
@@ -121,6 +121,10 @@ Before continuing with glueing the servos and cable into the wing make sure the 
 
 ![Also fix the cables with silicon](../../.gitbook/assets/wing-main-6.jpg)
 
+The cables on the wings/V-tails shoult look like this:
+
+![](../../.gitbook/assets/cable_v_tail_wing.jpeg)
+
 #### V-Tails
 
 ![](../../.gitbook/assets/wing-tail-1-.jpg)
@@ -131,6 +135,7 @@ Before continuing with glueing the servos and cable into the wing make sure the 
 
 ## Finalization & Testing
 
-* [ ] check this
-* [ ] and that...
-
+* [ ] are the carbon pipes glued in?
+* [ ] do the servos work?
+* [ ] are the cables and servos glued in?
+* [ ] 
