@@ -55,9 +55,21 @@ Now the other side like this:
 
 ### Install the carbon
 
+#### V-Tails
+
 Put glue on the carbon rod and the corresponding place in the vtail. Wait 10 minutes and push the rod into the corresponding place.
 
 ![](../../.gitbook/assets/vtail_carbon_rod.jpg)
+
+#### Wings
+
+![Apply UHU-POR to the surface marked yellow in the picture.](../../.gitbook/assets/whatsapp-image-2021-08-11-at-11.57.52.jpeg)
+
+Put the carbon wing pipe into the glue and remove it again so that the glue gets to the contact dry. Wait about 10 minutes.
+
+![](../../.gitbook/assets/wing_carbon_pipe_glued.jpeg)
+
+When putting back the carbon parts apply high force to get a better stabillity. 
 
 ### Installing the rudder horn
 
@@ -77,7 +89,7 @@ Now cut free the rudder of the V-Tail:
 
 ![](../../.gitbook/assets/cutting_vtail%20%281%29.jpeg)
 
-**Repeat the process with the Alerions.**
+**Repeat the process with the Wings.**
 
 ### Installing the servos into the wings
 
@@ -88,6 +100,8 @@ Make sure the servo is centered before installing the servo into the wing. Make 
 ![Center all the servos \(neutral position\)](../../.gitbook/assets/wings-prepare-servo-3.jpg)
 
 #### Installing the servos in the main wings
+
+Before continuing with glueing the servos and cable into the wing make sure the carbon tubes are inserted into the wings.
 
 **There is a right and wrong:**
 
