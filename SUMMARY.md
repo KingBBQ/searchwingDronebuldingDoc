@@ -6,8 +6,8 @@
 ## Building the Searchwing-Drone <a id="preparing-components"></a>
 
 * [Software Setup](preparing-components/software-setup/README.md)
-  * [Setup Pixracer](preparing-components/software-setup/setup-pixracer/README.md)
-    * [Setup payload Pi Computers](preparing-components/software-setup/setup-pixracer/setup-companion-computer.md)
+  * [Setup Pixracer](preparing-components/software-setup/setup-pixracer.md)
+  * [Setup payload Pi Computers](preparing-components/software-setup/setup-companion-computer.md)
   * [Create model on RC](preparing-components/software-setup/create-model-on-rc.md)
   * [Receiver Software](preparing-components/software-setup/receiver-software.md)
   * [Setup ESP for Pixracer](preparing-components/software-setup/setup-esp-for-pixracer.md)
