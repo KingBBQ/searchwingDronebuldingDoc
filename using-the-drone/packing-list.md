@@ -4,18 +4,24 @@ description: stuff to take with you for flying
 
 # Packing list
 
-* Plane
-  * fuselage and cover=lid=cap
-  * wings with poles=bars=sticks
-  * \(charged\) battery
-  * spare prop and battery
 * Remote Control
 * Ground-Station
 * Charger and plugs for destination
 * Battery packs and safety box
-* Cut protection gloves
 * Weather protection \(rain/sun glasses\)
-* Tools \(at least hex and Phillips key, wrench for prop\)
+
+### Flieger
+
+* [ ] Rumpf
+* [ ] Flügel
+* [ ] Flügelstangen
+  * [ ] Dick
+  * [ ] Dünn
+* [ ] V-Tail
+* [ ] Motor
+* [ ] Motorhalterung
+* [ ] Propeller
+* [ ] Akku
 
 ### Antenna Box
 
@@ -72,8 +78,6 @@ description: stuff to take with you for flying
 * [ ] UHU-Por
 * [ ] Sekundenkleber
 * [ ] Schnittfeste Handschuhe
-* [ ] 3xPropeller 
-  * [ ] Propeller Einsätze
 * [ ] Ratchenkasten klein
 * [ ] Propeller Nuss \(10mm\) inklusive Schraubendreher Griff
 * [ ] Imbus für Flügelscharuben \(H2.5\)
@@ -81,6 +85,15 @@ description: stuff to take with you for flying
 * [ ] Gewebe Klebeband
 * [ ] Isolierband
 * [ ] Laptopladegerät inklusive Kaltgerätestecker
+
+### Ersatzteile
+
+* [ ] Ladebuchse Abdeckung
+* [ ] Motor 
+* [ ] Motorhalterungen
+* [ ] 3xPropeller 
+  * [ ] Propeller Einsätze
+* [ ] Ersatz Flügelstangen
 
 
 
