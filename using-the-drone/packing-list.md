@@ -13,13 +13,15 @@ description: stuff to take with you for flying
 ### Flieger
 
 * [ ] Rumpf
+  * [ ] V-Tail
 * [ ] Flügel
 * [ ] Flügelstangen
   * [ ] Dick
   * [ ] Dünn
-* [ ] V-Tail
 * [ ] Motor
 * [ ] Motorhalterung
+  * [ ] Unterlgescheiben
+  * [ ] Muttern
 * [ ] Propeller
 * [ ] Akku
 
@@ -64,9 +66,10 @@ description: stuff to take with you for flying
 
 * [ ] Festplatte + passendes USB Kabel
 * [ ] Flightbook
+  * [ ] Kugelschreiber
 * [ ] Telemetrie FD Modem auf USB-A
   * [ ] Antenne für 868MHz
-* [ ] USB-A auf USB-C Adapter
+  * [ ] USB-A auf USB-C Adapter
 * [ ] Tablet
   * [ ] Ladegerät Tablet
   * [ ] USB-C Kabel
@@ -75,16 +78,21 @@ description: stuff to take with you for flying
   * [ ] 3 Lan Kabel
   * [ ] 2 x USB-A auf Micro USB
   * [ ] Netzstecker für USB Stecker an Accesspoints \(genug Power! ~1.8A\)
-* [ ] UHU-Por
-* [ ] Sekundenkleber
 * [ ] Schnittfeste Handschuhe
+* [ ] Laptopladegerät inklusive Kaltgerätestecker
+* [ ] Mehrfachstecker
+
+### Tools
+
+* [ ] Multimeter
 * [ ] Ratchenkasten klein
 * [ ] Propeller Nuss \(10mm\) inklusive Schraubendreher Griff
-* [ ] Imbus für Flügelscharuben \(H2.5\)
+* [ ] Inbus für Flügelscharuben \(H2.5\)
 * [ ] Cutter-Messer
 * [ ] Gewebe Klebeband
 * [ ] Isolierband
-* [ ] Laptopladegerät inklusive Kaltgerätestecker
+* [ ] UHU-Por
+* [ ] Sekundenkleber
 
 ### Ersatzteile
 
