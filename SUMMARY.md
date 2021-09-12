@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [SearchWing Manual 0.1](README.md)
 * [Template for instructions](template-for-instructions.md)
 
 ## Building the Searchwing-Drone <a id="preparing-components"></a>

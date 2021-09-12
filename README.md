@@ -1,4 +1,4 @@
-# Initial page
+# SearchWing Manual 0.1
 
 This website shows you, how to build the Search- and Rescue drone from the Searchwing project. 
 
