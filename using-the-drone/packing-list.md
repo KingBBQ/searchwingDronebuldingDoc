@@ -46,6 +46,7 @@ description: stuff to take with you for flying
 * [ ] Ersatzakku
 * [ ] Umhängegurt
 * [ ] Sonnenbrille
+* [ ] Schutzteile für Sticks damit diese beim Transport nicht beschädigt werden
 
 ### Akkuladergerät
 
@@ -54,6 +55,7 @@ description: stuff to take with you for flying
   * [ ] Kabelbaum
   * [ ] Zigarettenanzünderstecker auf XT60 Buchse
   * [ ] XT60 auf Flierger Ladebuchse
+  * [ ] XT60 auf XT90 für Akku
   * [ ] Schukustecker auf Mickeymouse Stecker für Ladegerät
 
 ### Groundstation
