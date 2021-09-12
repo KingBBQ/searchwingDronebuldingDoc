@@ -4,12 +4,6 @@ description: stuff to take with you for flying
 
 # Packing list
 
-* Remote Control
-* Ground-Station
-* Charger and plugs for destination
-* Battery packs and safety box
-* Weather protection \(rain/sun glasses\)
-
 ### Flieger
 
 * [ ] Rumpf
