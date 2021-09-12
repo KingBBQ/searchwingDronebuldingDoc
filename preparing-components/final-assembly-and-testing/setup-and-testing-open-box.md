@@ -19,6 +19,8 @@ description: Test all internal components for correct hardware connectivity
 * [ ] Test: Does it work
   * Connect USB Cable
   * Start QGC and check if the pixracer connects
+  * Is SD Card inserted?
+  * is logging functional?‌AHRS
 
 ## Telemetry
 
