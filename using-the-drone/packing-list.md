@@ -17,7 +17,35 @@ description: stuff to take with you for flying
 * Weather protection \(rain/sun glasses\)
 * Tools \(at least hex and Phillips key, wrench for prop\)
 
+### Antenna Box
 
+* [ ] Taoglas Antenne
+  * [ ] Montagematerial
+* [ ] 2m Antennenkabel
+* [ ] Antenna Box
+  * [ ] Montagematerial
+  * [ ] Masthalterung
+  * [ ] Schraubschellen groß
+  * [ ] Schraubschellen klein
+  * [ ] Deckel
+  * [ ] PE-Verschraubung
+* [ ] Akku
+* [ ] PoE-Adapter + Mikimauskabel
+* [ ] PoE-Injector Kabel                                                                                                                                                 
+* [ ] PoE-Dejector Kabel
+* [ ] RFD-Telemetrie
+* [ ] Platine Antenna Box
 
+### Groundstation
+
+* [ ] Funke
+  * [ ] Ladegerät
+  * [ ] Akku
+  * [ ] Ersatzakku
+  * [ ] Ladegerät
+  * [ ] Umhängegurt
+  * [ ] Sonnenbrille
+* [ ] Festplatte
+* [ ] 
 
 
