@@ -34,7 +34,7 @@
   * [Setup and testing \(open box\)](preparing-components/final-assembly-and-testing/setup-and-testing-open-box.md)
   * [Closing the box](preparing-components/final-assembly-and-testing/closing-the-box.md)
   * ["Marriage" - combining box & fuselage](preparing-components/final-assembly-and-testing/marriage-combining-box-and-fuselage.md)
-  * [Final testing](preparing-components/final-assembly-and-testing/final-testing.md)
+  * [Final testing and control](preparing-components/final-assembly-and-testing/final-testing.md)
 
 ## Testing & Development
 
