@@ -4,31 +4,26 @@
 
 #### Time required
 
-* **Building:** 30 minutes
-* **Curing**: 2 days
+\*\*\*\*
 
 #### Tools required
 
-* 
 #### Parts required
 
-* Extron Motor
-* Bearing
-* Bearing
+* assemblied Fuselage halfs
+* long Carbon Pipe
+* short Carbon Pipe
 
-## Step 1: 
+**Check for Defects before continuation**
 
-{% hint style="info" %}
-Give special instrucktion... 
-{% endhint %}
-
-## Step 2:
+* are V-Tails glued in
+* are the carbon pipes for Fuselage stabilisation glued in
+* is the motor glued in
+* are the Box-Pipe guide holes glued to the Box
 
 
 
 ## Finalization & Testing
-
-
 
 * [ ] check this
 * [ ] and that...

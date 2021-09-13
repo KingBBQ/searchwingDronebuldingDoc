@@ -48,6 +48,17 @@ The tower needs to be attached with tape as well.
 
 ![](../../.gitbook/assets/ganze-box-mit-tape-fixieren.jpg)
 
+
+
+### Apply Membrans
+
+**Requirements**
+
+* Alcohol for cleaning and nerves
+* 2x Membranes
+
+First clean the surfaces with alcohol around the designated holes. Then apply the Membranes.
+
 ## Finalization & Testing
 
 For testing the waterproofness put the box into the bathroom and shower it. Don't forget to attach the membrane on the holes! While testing the waterproofness you should be connected to the Pi's to see the values of the DHT22 sensor. 
