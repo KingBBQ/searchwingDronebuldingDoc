@@ -93,9 +93,11 @@ description: stuff to take with you for flying
 ### Ersatzteile
 
 * [ ] Ladebuchse Abdeckung
+* [ ] Kabelbinder
+* [ ] Schrumpfschläuche
 * [ ] Motor 
 * [ ] Motorhalterungen
-* [ ] 3xPropeller 
+* [ ] 3xPropeller oder mehr 
   * [ ] Propeller Einsätze
 * [ ] Ersatz Flügelstangen
 * [ ] Membranen
