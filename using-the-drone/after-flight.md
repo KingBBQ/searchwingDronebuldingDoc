@@ -41,7 +41,7 @@ Be aware that only one analysis run / algorithm can run at a time - please close
 
 ### Suggestion on how to process on new flight data \(Best practice!\)
 
-1. Start "Image Classification" as it is the fastest 
+1. Start "Image Classification" as it is the fastest algorithm
 2. Wait until Download and classification is finished and close "Image Classification" 
 
    window
@@ -50,7 +50,7 @@ Be aware that only one analysis run / algorithm can run at a time - please close
 
 ## 3. Observe images
 
-While the download and the analysis is running you should now observer the images the analysis results by using the searchwing-gui.
+While the download and the analysis is running you should now observer the images and the analysis results by using the searchwing-gui.
 
 1. Start GUI via desktop icon - The browser should open
 2. Select / click the currently downloaded image data
@@ -79,21 +79,28 @@ If the GUI is already running and you try to open it up again a message will app
 * Plug in charging cable
 * Use predefined setting for the drone
 
-## \(optional\) Download log file
+## \(optional\) Download pi log file
 
-* Download the log file via scp
+* Download the pi log file\(s\) via scp
+
+```bash
+$ mkdir -p /home/searchwing/flightdata/FLIGHTNAME/pi-logs
+$ cd /home/searchwing/flightdata/FLIGHTNAME/pi-logs
+$ scp searchwing@perlman-l:/data/logs/* .
+```
 
 ## 5. Turn off systems
 
 * UAV / drone
 * Remote control
 * QGC / tablet
+* TODO
 
 ## 6. Documentation
 
 * Get flight log / book
-* Is goal reached
-* Not problems
+* Is goal reached?
+* TODO
 
 ## \(optional\) Cleaning the drone
 
@@ -102,4 +109,6 @@ If drone is not used anymore within the next hours cleaning is needed!
 {% endhint %}
 
 ### Clean motor using sweetwater
+
+* TODO
 
