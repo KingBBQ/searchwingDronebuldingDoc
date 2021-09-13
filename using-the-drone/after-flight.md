@@ -2,16 +2,20 @@
 
 ## 1. Download Images
 
+After the plane is landed, you should immediatly start downloading the images to the groundstation laptop through the image download station.
+
 1. Start by pressing "Download Drone images" on Groundstation Laptop
-2. Enter dronename
+2. Enter dronename - here "perlman"
 3. Leave cam prefix empty
 4. Two windows should appear - each for one camera / pi in the plane
+5. Approximatly 1 image download should take 1-2 seconds.
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
 ## 2. Image analysis
 
-* While image download is running, start analysis of the images while they get downloaded
+While image download is running, start analysis of the images while they get downloaded.
+
 * There are different algorithms available to analyse the images 
   * Classify Images: Shows whether a image includes a boat but not where it is
     * EfficientNet
@@ -45,6 +49,8 @@ Be aware that only one analysis run / algorithm can run at a time - please close
 3. Start "Detect Boats \(Retina\)" as its more accurate than classification but takes longer
 
 ## 3. Observe images
+
+While the download and the analysis is running you should now observer the images the analysis results by using the searchwing-gui.
 
 1. Start GUI via desktop icon - The browser should open
 2. Select / click the currently downloaded image data
