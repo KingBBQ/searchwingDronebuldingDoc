@@ -26,7 +26,7 @@
   * [Preparing the fuselage](preparing-components/combining-components/preparing-the-fuselage.md)
   * [Power cables](preparing-components/combining-components/power-cables.md)
   * [Internal signal cables](preparing-components/combining-components/internal-signal-cables.md)
-  * [???Preparing the water tight battery bag](preparing-components/combining-components/preparing-the-water-tight-battery-bag.md)
+  * [Preparing the water tight battery bag](preparing-components/combining-components/preparing-the-water-tight-battery-bag.md)
   * [Building V-Tails and Wings](preparing-components/combining-components/building-v-tails-and-wings.md)
   * [Equipping the box with all components](preparing-components/combining-components/equipping-the-box-with-all-components.md)
   * [Untitled](preparing-components/combining-components/untitled.md)
