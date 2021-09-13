@@ -78,13 +78,13 @@ Do the whole procedure **OUTSIDE with good ventilation!**
 **Acetone vapors are explosive!**
 {% endhint %}
 
-![](../../.gitbook/assets/searchwing-acetone-1.jpg)
+![](../../.gitbook/assets/Searchwing%20Acetone%201.jpg)
 
 * Boil 1l of water
 * fill the acetone into the big container
 * fill the boiling water into the bottom container
 
-![Acetone starts boiling](../../.gitbook/assets/searchwing-acetone-2.jpg)
+![Acetone starts boiling](../../.gitbook/assets/Searchwing%20Acetone%202.jpg)
 
 {% hint style="info" %}
 You can see the level of the vaporized acetone on the side of the container as drops
@@ -97,11 +97,11 @@ You can see the level of the vaporized acetone on the side of the container as d
 * you see the surface getting "shiny"
 * finished!
 
-![](../../.gitbook/assets/searchwing-acetone-3.jpg)
+![](../../.gitbook/assets/Searchwing%20Acetone%203.jpg)
 
 #### Curing / Drying
 
-![](../../.gitbook/assets/searchwing-acetone-4.jpg)
+![](../../.gitbook/assets/Searchwing%20Acetone%204.jpg)
 
 ## Glue the holders to the box 
 

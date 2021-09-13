@@ -97,9 +97,9 @@ Now cut free the rudder of the V-Tail:
 
 Make sure the servo is centered before installing the servo into the wing. Make sure the servo arm is installed with a O-Ring inbetween the servo arm and the servo housing.
 
-![Add the O-Ring and some grease or oil](../../.gitbook/assets/wings-prepare-servo-2%20%281%29.jpg)
+![Add the O-Ring and some grease or oil](../../.gitbook/assets/wings-prepare-servo-2.jpg)
 
-![Center all the servos \(neutral position\)](../../.gitbook/assets/wings-prepare-servo-3%20%281%29.jpg)
+![Center all the servos \(neutral position\)](../../.gitbook/assets/wings-prepare-servo-3.jpg)
 
 #### Installing the servos in the main wings
 
