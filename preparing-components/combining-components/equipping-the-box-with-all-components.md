@@ -24,27 +24,27 @@
 
 ## Step 1: Install the servo connectors
 
-![](../../.gitbook/assets/m-plug%201.jpg)
+![](../../.gitbook/assets/m-plug-1.jpg)
 
-![](../../.gitbook/assets/m-plug%202.jpg)
-
-
-
-![](../../.gitbook/assets/m-plug%203.jpg)
+![](../../.gitbook/assets/m-plug-2.jpg)
 
 
 
-![](../../.gitbook/assets/m-plug%204.jpg)
+![](../../.gitbook/assets/m-plug-3.jpg)
+
+
+
+![](../../.gitbook/assets/m-plug-4.jpg)
 
 
 
 
 
-![](../../.gitbook/assets/m-plug%206.jpg)
+![](../../.gitbook/assets/m-plug-6.jpg)
 
 
 
-![](../../.gitbook/assets/m-plug%207.jpg)
+![](../../.gitbook/assets/m-plug-7.jpg)
 
 {% hint style="info" %}
 Give special instrucktion... 
@@ -56,77 +56,77 @@ Give special instrucktion...
 
 
 
-![](../../.gitbook/assets/PiCam%202.jpg)
+![](../../.gitbook/assets/picam-2.jpg)
 
 
 
-![](../../.gitbook/assets/PiCam%203.jpg)
+![](../../.gitbook/assets/picam-3.jpg)
 
 
 
-![](../../.gitbook/assets/PiCam%204.jpg)
+![](../../.gitbook/assets/picam-4.jpg)
 
 
 
-![](../../.gitbook/assets/PiCam%205.jpg)
+![](../../.gitbook/assets/picam-5.jpg)
 
 
 
-![](../../.gitbook/assets/PiCam%206.jpg)
+![](../../.gitbook/assets/picam-6.jpg)
 
 
 
 ## Step 3: Install the Power Module
 
-![](../../.gitbook/assets/PowerModule%201.jpg)
+![](../../.gitbook/assets/powermodule-1.jpg)
 
 
 
 ## Step 4: Prepare the cover
 
-![](../../.gitbook/assets/Cover%201.jpg)
+![](../../.gitbook/assets/cover-1.jpg)
 
 
 
-![](../../.gitbook/assets/Cover%202.jpg)
+![](../../.gitbook/assets/cover-2.jpg)
 
 
 
-![](../../.gitbook/assets/Cover%203.jpg)
+![](../../.gitbook/assets/cover-3.jpg)
 
 
 
-![](../../.gitbook/assets/Cover%204.jpg)
+![](../../.gitbook/assets/cover-4.jpg)
 
 
 
-![](../../.gitbook/assets/Cover%20Antenna%201.jpg)
+![](../../.gitbook/assets/cover-antenna-1.jpg)
 
 
 
-![](../../.gitbook/assets/Cover%20Antenna%202.jpg)
+![](../../.gitbook/assets/cover-antenna-2.jpg)
 
 
 
-![](../../.gitbook/assets/Cover%20Antenna%204.jpg)
+![](../../.gitbook/assets/cover-antenna-4.jpg)
 
 
 
-![](../../.gitbook/assets/Cover%20Antenna%205.jpg)
+![](../../.gitbook/assets/cover-antenna-5.jpg)
 
 
 
 ## Step 4: Combining front and back
 
-![](../../.gitbook/assets/Box%20combine%20parts%201.jpg)
+![](../../.gitbook/assets/box-combine-parts-1.jpg)
 
 
 
-![](../../.gitbook/assets/Box%20combine%20parts%202.jpg)
+![](../../.gitbook/assets/box-combine-parts-2.jpg)
 
 
 
-![](../../.gitbook/assets/Box%20combine%20parts%203.jpg)
+![](../../.gitbook/assets/box-combine-parts-3.jpg)
 
 
 
@@ -144,7 +144,7 @@ Give special instrucktion...
 
 ![](../../.gitbook/assets/box-combine-parts-7.jpg)
 
-
+![](../../.gitbook/assets/pixracer-connections-servo%20%281%29.jpg)
 
 ![](../../.gitbook/assets/box-combine-parts-8.jpg)
 
