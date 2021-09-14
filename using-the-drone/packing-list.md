@@ -95,12 +95,14 @@ description: stuff to take with you for flying
 * [ ] Ladebuchse Abdeckung
 * [ ] Kabelbinder
 * [ ] Schrumpfschläuche
-* [ ] Motor 
+* [ ] Motor
 * [ ] Motorhalterungen
 * [ ] 3xPropeller oder mehr 
   * [ ] Propeller Einsätze
 * [ ] Ersatz Flügelstangen
 * [ ] Membranen
+* [ ] Flügel
+* [ ] V-Tails
 
 
 
