@@ -84,6 +84,8 @@ description: stuff to take with you for flying
 * [ ] Ratchenkasten klein
 * [ ] Propeller Nuss \(10mm\) inklusive Schraubendreher Griff
 * [ ] Inbus für Flügelscharuben \(H2.5\)
+* [ ] Inbus für Motor
+* [ ] Seitenschneider
 * [ ] Cutter-Messer
 * [ ] Gewebe Klebeband
 * [ ] Isolierband
@@ -103,6 +105,11 @@ description: stuff to take with you for flying
 * [ ] Membranen
 * [ ] Flügel
 * [ ] V-Tails
+* [ ] Motorachsen
+* [ ] Schräubchen
+* [ ] Dichtband/Dampfsperre
+* [ ] Kameragläser/Plexiglas
+* [ ] FLugzeugständer
 
 
 
