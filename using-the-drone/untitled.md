@@ -43,9 +43,15 @@
 * [ ] ‌check barycentre \("schwerpunkt"\)
 * [ ] ‌note weight
 * [ ] ‌turn QGC, RC, UAV on
-* [ ] PiZero 
-  * [ ] Check if Pi takes pictures 
-  * [ ] Check SD card for space, save and delete if necessary
+* [ ] Payload
+  * [ ] Clean camera window with a tissue
+  * [ ] Check preflight-selfcheck of payloads in QGC
+    * [ ] All services are running \(camera + dht22 + mavlink-router\)
+    * [ ] SD card got enough space for a 1h flight -  delete old images if necessary
+    * [ ] Camera can take and save photos to SD Card
+    * [ ] DHT22 humidity and temperature acceptable
+    * [ ] PI CPU temperature acceptable
+  * [ ] Check camera image quality in browser via wifi connection`http://droneName/0_latest.jpg`
 * [ ] ‌AHRS \(Attitude Heading Reference System\) check 
 * [ ] ‌Barometer, GPS check
 * [ ] compass Check
