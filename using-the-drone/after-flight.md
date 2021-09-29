@@ -76,12 +76,12 @@ If the GUI is already running and you try to open it up again a message will app
 
 ## 4. Recharge Battery
 
-* Plug in charging cable
-* Use predefined setting for the drone
+* [ ] Plug in charging cable
+* [ ] Use predefined setting for the drone
 
 ## \(optional\) Download pi log file
 
-* Download the pi log file\(s\) via scp
+* [ ] Download the pi log file\(s\) via scp
 
 ```bash
 $ mkdir -p /home/searchwing/flightdata/FLIGHTNAME/pi-logs
@@ -91,16 +91,16 @@ $ scp searchwing@perlman-l:/data/logs/* .
 
 ## 5. Turn off systems
 
-* UAV / drone
-* Remote control
-* QGC / tablet
-* TODO
+* [ ] UAV / drone
+* [ ] Remote control
+* [ ] QGC / tablet
+* [ ] TODO
 
 ## 6. Documentation
 
-* Get flight log / book
-* Is goal reached?
-* TODO
+* [ ] Get flight log / book
+* [ ] Is goal reached?
+* [ ] TODO
 
 ## \(optional\) Cleaning the drone
 
